@@ -5,7 +5,7 @@ Simple web app to manage your watched movies
 
 RESTful API - Laravel
 <br>
-Tested in <a href="https://insomnia.rest/">Insomnia</a>
+Tested in <a href="https://insomnia.rest/" target="_blank">Insomnia</a>
 <br><br>
 Front-end - Vue.js / Tailwind
 
